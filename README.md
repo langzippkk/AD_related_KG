@@ -1,5 +1,8 @@
 # AD_related_KG
 
+Results:
+
+All the results predicted by TransE model.
 
 
 1. Training.ipynb
